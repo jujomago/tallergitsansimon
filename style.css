@@ -11,3 +11,10 @@ div {
   border: 1px solid yellow;
   text-align: center;
 }
+
+h1 {
+  color: red;
+}
+h2 {
+  color: yellow;
+}
